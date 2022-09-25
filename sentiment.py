@@ -1,7 +1,5 @@
 """
 Jethro Ronald Lee
-DS 2000
-Homework 6
 March 25, 2022
 sentiment.py
 """
